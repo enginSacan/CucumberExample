@@ -7,8 +7,8 @@ public class LoginPage extends BaseTest {
     private String usernameId = "txtUserName";
     private String passwordId = "txtPassword";
     private String loginBtnId = "btnLogin";
-    private String user = "engnsacan@gmail.com";
-    private String pass = "Eng88meh*";
+    private String user = "abc@abc.com";
+    private String pass = "";
     private String searchBarId = "SearchBoxOld";
 
     protected boolean userLogin () {
